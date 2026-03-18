@@ -5,6 +5,8 @@ credits :
 https://github.com/RainbowDynamix
 https://github.com/KeServiceDescriptorTable
 
+will add more in the future.
+
 these have been tested and work on machines with secure boot and HVCI enabled. Windows 10 thru 11
 
 these have no public cves, i claim no responsiblity on what you do with these.
