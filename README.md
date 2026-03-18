@@ -11,6 +11,8 @@ these have been tested and work on machines with secure boot and HVCI enabled. W
 
 these have no public cves, i claim no responsiblity on what you do with these.
 
+if you do use these in a BYOVD, please open an issue with a link to your github repo.
+
 | Driver Name                        | Direct Download Link                                                                 |
 |------------------------------------|--------------------------------------------------------------------------------------|
 | AdvCare.sys                        | [https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/AdvCare.sys](https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/AdvCare.sys) |
