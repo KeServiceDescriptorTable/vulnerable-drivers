@@ -12,9 +12,7 @@ These have been tested and work on machines with Secure Boot and HVCI enabled. W
 
 These have no public CVEs. I claim no responsibility for what you do with these.
 
-### SHA256 Hashes & Downloads
-
-| Driver Name | SHA256 Hash | Size (bytes) | Download Link |
+| name | hash (SHA256) | size | direct download |
 |-------------|-------------|--------------|---------------|
 | AdvCare.sys | 697D3E6D215D1ED6DC2465334502DB92E0CA77AD0B8392C945AC9E0F36509666 | 21,200 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/AdvCare.sys |
 | Cormem.sys | 40C855D20D497823716A08A443DC85846233226985EE653770BC3B245CF2ED0F | 77,616 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/Cormem.sys |
