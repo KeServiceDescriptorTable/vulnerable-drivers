@@ -12,8 +12,6 @@ These have been tested and work on machines with Secure Boot and HVCI enabled. W
 
 These have no public CVEs. I claim no responsibility for what you do with these.
 
-If you do use these in a BYOVD, please open an issue with a link to your GitHub repo.
-
 ### SHA256 Hashes & Downloads
 
 | Driver Name | SHA256 Hash | Size (bytes) | Download Link |
