@@ -25,3 +25,4 @@ These have no public CVEs. I claim no responsibility for what you do with these.
 | SysFile_X64.sys | 5B204E0A24B5EA67E79329A8C4EB0513CD52A0E7407B99530323FFF4C5B59E33 | 56,088 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/SysFile_X64.sys |
 | SysInfoX64.sys | 52C5FFD62EAE04B890E0F4C96B84A3305E9B6571975C4352131CFC3D1B73A024 | 15,160 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/SysInfoX64.sys |
 | TBT_Force_Power_Control_Access64.sys | 4C776F34C6042D943BAEC3C13D7154A245AAE8DD95E1933211FD19352C770676 | 15,400 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/TBT_Force_Power_Control_Access64.sys |
+| amd64.sys | to be filled | to be filled | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/amd64.sys |
