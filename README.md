@@ -18,3 +18,4 @@
 | SysInfoX64.sys | 52C5FFD62EAE04B890E0F4C96B84A3305E9B6571975C4352131CFC3D1B73A024 | 15,160 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/SysInfoX64.sys |
 | TBT_Force_Power_Control_Access64.sys | 4C776F34C6042D943BAEC3C13D7154A245AAE8DD95E1933211FD19352C770676 | 15,400 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/TBT_Force_Power_Control_Access64.sys |
 | amd64.sys | 2BC72D11FA0BEDA25DC1DBC372967DB49BD3C3A3903913F0877BFF6792724DFE | 24,768 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/amd64.sys |
+| CardIo64.sys | 8A6265D23D30D6C4C7E159624686DE6DBF2CCB86A421B0F45510005F7A40CD1A | 13,104 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/CardIo64.sys |
