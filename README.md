@@ -10,7 +10,7 @@
 | Cormem.sys | 40C855D20D497823716A08A443DC85846233226985EE653770BC3B245CF2ED0F | 77,616 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/Cormem.sys |
 | cpqsysio64.sys | 4024B090CEBCABAAB884C84EC80FFB15622D12632F236383A9B0A470BFF9FE33 | 15,168 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/cpqsysio64.sys |
 | evga_kernel_driver-x64.sys | 33DA2CE240B4559CC6E847D56C5FBEAA3D644EC160841920EA0A098DCEE28D0E | 39,856 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/evga_kernel_driver-x64.sys |
-| iOCdrv.sys (intel) | B936C4BA80CCEE3B0B3B67FC88C8CAA103FCFC47888E976F6D5B6F113D22F41F | 43,680 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/iOCdrv.sys |
+| iOCdrv.sys | B936C4BA80CCEE3B0B3B67FC88C8CAA103FCFC47888E976F6D5B6F113D22F41F | 43,680 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/iOCdrv.sys |
 | ipctype.sys | 8E2ACCE10D704C8B511C8B6211A2BE5D8E4ADE91EBCBDA2AC10018E4C0AE99FB | 14,096 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/ipctype.sys |
 | portwell.sys | 2F0B16ED90B8C15BF52A7C32699DBE0DBCD38FC02ED2DDB4E1BA35487177B6C5 | 16,848 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/portwell.sys |
 | ppa_x64.sys | 988960E31A258EA71CF93A7791AE8C91C8CEFB6AD8A50CDBD1B07F73B524AA61 | 15,560 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/ppa_x64.sys |
