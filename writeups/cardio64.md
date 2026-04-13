@@ -1,43 +1,39 @@
-# file 
-name - "CardIo64.sys"
-hash (SHA256) - "8A6265D23D30D6C4C7E159624686DE6DBF2CCB86A421B0F45510005F7A40CD1A"
-size (bytes) - 13,104
+# File
+Name: "CardIo64.sys"
+Hash (SHA256): 8A6265D23D30D6C4C7E159624686DE6DBF2CCB86A421B0F45510005F7A40CD1A
+Size: 13,104 bytes
 
-# signer
-certificate name - "ICP DAS Co., LTD."
+# Signer
+Certificate Name: "ICP DAS Co., LTD."
 
-# device & symbolic
-Device Name - "\\Device\\CardIo"
-Symbolic Link - "\\DosDevices\\CardIo"
+# Device & Symbolic Link
+Device Name:     "\\Device\\CardIo"
+Symbolic Link:   "\\DosDevices\\CardIo"
 
-# ioctl codes
-
+# IOCTL Codes
 0x80102040 - Read Physical Memory
 0x80102044 - Write Physical Memory
-
 0x80102054 - Write Port Data
 0x80102058 - Write Port Data
 0x8010205C - Write Port Data
-
 0x80106048 - Read Port Data
 0x8010604C - Read Port Data
 0x80106050 - Read Port Data
-
 0x80106060 - Get Bus Data
 0x8010A064 - Set Bus Data
 
-# imports
+# Imports
 
-* ntoskrnl.exe
-MmMapIoSpace
-RtlInitUnicodeString
-IoCreateSymbolicLink
-IoCreateDevice
-IoDeleteSymbolicLink
-IofCompleteRequest
-MmUnmapIoSpace
-IoDeleteDevice
+From ntoskrnl.exe:
+- MmMapIoSpace
+- RtlInitUnicodeString
+- IoCreateSymbolicLink
+- IoCreateDevice
+- IoDeleteSymbolicLink
+- IofCompleteRequest
+- MmUnmapIoSpace
+- IoDeleteDevice
 
-* HAL.dll
-HalGetBusDataByOffset
-HalSetBusDataByOffset
+From HAL.dll:
+- HalGetBusDataByOffset
+- HalSetBusDataByOffset
