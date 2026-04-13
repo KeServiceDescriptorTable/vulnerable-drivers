@@ -19,3 +19,4 @@
 | TBT_Force_Power_Control_Access64.sys | 4C776F34C6042D943BAEC3C13D7154A245AAE8DD95E1933211FD19352C770676 | 15,400 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/TBT_Force_Power_Control_Access64.sys |
 | amd64.sys | 2BC72D11FA0BEDA25DC1DBC372967DB49BD3C3A3903913F0877BFF6792724DFE | 24,768 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/amd64.sys |
 | CardIo64.sys | 8A6265D23D30D6C4C7E159624686DE6DBF2CCB86A421B0F45510005F7A40CD1A | 13,104 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/CardIo64.sys |
+| SONiXDDRx64.sys | 85A4CE446D9CCD93C2F14D2E0F30EA673812CE740438ABB199A8047510614A76 | 44,640 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/SONiXDDRx64.sys |
