@@ -48,9 +48,3 @@ __C_specific_handler
 * HAL.dll
 HalSetBusDataByOffset
 HalGetBusDataByOffset
-
-**Credits:**
-- https://github.com/RainbowDynamix
-- https://github.com/KeServiceDescriptorTable
-- https://x.com/DbgPrint
-- https://x.com/rainbowdynamix
