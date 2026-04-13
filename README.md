@@ -3,6 +3,8 @@
 **Credits:**
 - https://github.com/RainbowDynamix
 - https://github.com/KeServiceDescriptorTable
+- https://x.com/DbgPrint
+- https://x.com/rainbowdynamix
 
 | name | hash (SHA256) | size | direct download |
 |-------------|-------------|--------------|---------------|
