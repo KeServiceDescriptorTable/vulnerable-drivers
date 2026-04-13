@@ -35,9 +35,3 @@ IoCreateDevice
 IoAllocateMdl
 KeBugCheckEx
 __C_specific_handler
-
-**Credits:**
-- https://github.com/RainbowDynamix
-- https://github.com/KeServiceDescriptorTable
-- https://x.com/DbgPrint
-- https://x.com/rainbowdynamix
