@@ -18,6 +18,10 @@ These were collected over a period of time, it started out with a single vulnera
 ## How did we found these?
 We used a simple python script to scrape virustotal for uploads that were a driver and had specific imports. ( thanks virustotal )
 
+## Final notes
+* These were uploaded as is, I'm not responsible for anything done with these. 
+* There should be no CVES for these are of now. If you get a cve for these please credit your sources (:
+
 # Credits
 - https://github.com/RainbowDynamix
 - https://github.com/KeServiceDescriptorTable
