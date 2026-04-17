@@ -4,6 +4,7 @@
 - https://github.com/RainbowDynamix
 - https://github.com/KeServiceDescriptorTable
 - https://x.com/rainbowdynamix
+- https://x.com/hexraysinsider
 
 | name | hash (SHA256) | size | direct download |
 |-------------|-------------|--------------|---------------|
