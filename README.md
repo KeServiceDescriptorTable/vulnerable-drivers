@@ -24,3 +24,6 @@
 | SONiXDDRx64.sys | 85A4CE446D9CCD93C2F14D2E0F30EA673812CE740438ABB199A8047510614A76 | 44,640 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/SONiXDDRx64.sys |
 | Windows_CPU_Temperature_Component.sys | 4CEA52C32579869D0209F18CED0B9CC9AD8F86CAC29E0FB63B3D60EB64801BDA | 36,864 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/Windows_CPU_Temperature_Component.sys |
 | UDDB2B6.sys | 9AF0B89C5C54EB66E5A660B61AEE7C1A25B1C92E20A310D8B16552ABCF90C0B5 | 51,392 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/UDDB2B6.sys |
+| AsrCDDrv.sys | 04CC7DF4077E36199B04AFA39204C8F568F7F66F045E73010FB9B7685324442F | 51,392 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/AsrCDDrv.sys |
+| Amd_RPMC_BiosToolCommonDriver.sys | 4E913A99B38ABEA038202C95C6BC5D8D866A6E2869101A14A05079235346D9A1 | 51,392 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/Amd_RPMC_BiosToolCommonDriver.sys |
+| XLHA.sys | 11C9CBC39B6E028F2E8F9E7F83B47AE83CA73961ECFEBB2F7213F9478F5446D5 | 51,392 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/XLHA.sys |
