@@ -23,3 +23,4 @@
 | CardIo64.sys | 8A6265D23D30D6C4C7E159624686DE6DBF2CCB86A421B0F45510005F7A40CD1A | 13,104 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/CardIo64.sys |
 | SONiXDDRx64.sys | 85A4CE446D9CCD93C2F14D2E0F30EA673812CE740438ABB199A8047510614A76 | 44,640 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/SONiXDDRx64.sys |
 | Windows_CPU_Temperature_Component.sys | 4CEA52C32579869D0209F18CED0B9CC9AD8F86CAC29E0FB63B3D60EB64801BDA | 36,864 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/Windows_CPU_Temperature_Component.sys |
+| UDDB2B6.sys | 9AF0B89C5C54EB66E5A660B61AEE7C1A25B1C92E20A310D8B16552ABCF90C0B5 | 51,392 | https://raw.githubusercontent.com/KeServiceDescriptorTable/vulnerable-drivers/main/drivers/UDDB2B6.sys |
