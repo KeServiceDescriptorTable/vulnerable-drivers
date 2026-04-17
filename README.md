@@ -1,10 +1,29 @@
 # vulnerable-drivers
 
-**Credits:**
+## Why?
+These were collected over a period of time, it started out with a single vulnerable driver and quickly climbed to 80+ ( as of now ). These are confirmed to be vulnerable by manual reverse engineering across every driver. 
+
+## What is included?
+* Large company drivers such as AMD, Intel, Realtek, Asus, Asrock, Lg ( samsung )
+* WHQL signed drivers
+* Non-WHQL signed driver but just signed
+* Random Cheat Drivers target EasyAntiCheat most likely
+
+## Features of these drivers
+* Read/Write physical memory
+* Read/Write control registers
+* Read/Write model specific registers (msr)
+* Allocate/Free memory via numerous kernel apis
+
+## How did we found these?
+We used a simple python script to scrape virustotal for uploads that were a driver and had specific imports. ( thanks virustotal )
+
+# Credits
 - https://github.com/RainbowDynamix
 - https://github.com/KeServiceDescriptorTable
 - https://x.com/rainbowdynamix
 - https://x.com/hexraysinsider
+- https://virustotal.com - and the people uploading files to here...
 
 | name | hash (SHA256) | size | direct download |
 | --- | --- | --- | --- |
